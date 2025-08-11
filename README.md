@@ -1,24 +1,24 @@
-## Hi, I'm Alex! 👋
-*Currently Software Engineer Co-op @ MKS | Computer Science & History Student @ UW-Madison 
+# Hey, I'm Alex 👋  
+
+### 🌟 About Me  
+- 🎓 Junior @ **UW–Madison** (fun fact: my middle name is *Madison* 🦡)  
+- ✈️ I love to travel! Most recently, I explored **Boston** 🍁  
+- 📚 Constantly learning, building, and exploring both tech & the world  
 
 ---
 
-## About Me 
-- Junior @ UW-Madison
-- My middle name is Madison!
-- I love to travel! I recently just visited: Boston
+## 🛠️ Tech Stack  
+**Frontend:** React (Vite) · Tailwind CSS · Next.js  
+**Backend:** .NET (C#) · Node.js  
+**Databases:** PostgreSQL · MongoDB  
+**Other:** Docker · Agile · Git  
 
 ---
-
-## 🛠️ Tech Stack
-**Frontend:** React (Vite), Tailwind CSS, Next.js  
-**Backend:** .NET (C#), Node.js  
-**Databases:** PostgreSQL, MongoDB  
-**Other:** Docker, Agile, Git
 
 ## 🌱 Currently Learning  
-- Operating Systems
-- Art history!
+- 🖥️ **Operating Systems** – Getting through OSTEP 😭
+- 🎨 **Art History** – MFA Boston was beautiful!
+
 
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexanderli523/)  
